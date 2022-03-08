@@ -1,2 +1,2 @@
-# Portugol-Projetos---L-gica-de-Programa-o
+# Portugol_Projetos_Logica_de_Programacao
 Lógica de Programação
